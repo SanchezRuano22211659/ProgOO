@@ -11,7 +11,7 @@
 
 # Índice
 ---
-- [Actividad 1: investigación](https://github.com/SanchezRuano22211659/ProgOO/blob/main/InvestigacionU1.md)
-- [Actividad :]()
-- [Actividad :]()
-- [Actividad :]()
+1. [Actividad 1: investigación]()
+2. [Actividad :]()
+3. [Actividad :]()
+4. [Actividad :]()
