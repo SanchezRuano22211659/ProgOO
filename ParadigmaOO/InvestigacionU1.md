@@ -57,5 +57,4 @@ Cuando uno hace referencia a la herencia en la programación, uno tiene que ente
 
 ## 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 La máquina cuenta con los distintos métodos que hacen llamar dependiendo la cantidad de productos y la suma interna de estos al momento de elegir el precio, ya sea en dólar o en peso mexicano bajo un precio fijo base que esta en MXN, y del cual se extrae al momento de mandar operar la máquina
-
-![image](https://user-images.githubusercontent.com/126355162/225214637-f7861bbf-ef45-479e-a305-0a8b74ea8826.png)
+![](https://user-images.githubusercontent.com/126355162/225214972-6e41fe2b-3ef0-493c-882f-0997b311e5bf.png)
