@@ -13,6 +13,6 @@
 # Índice
 ---
 1. [Actividad: Práctica de producto](https://github.com/SanchezRuano22211659/producto/tree/main)
-2. [Actividad: investigación](https://github.com/SanchezRuano22211659/ProgOO/blob/main/ParadigmaOO/InvestigacionU1.md)
-3. [Actividad:]()
-4. [Actividad:]()
+2. [Actividad: Diagrama UML. página de streaming](https://drive.google.com/file/d/1qGtukfLf1z1rjkii-jzSepm1ZzpmqKcu/view?usp=sharing)
+3. [Actividad: Práctica de Dominoes](https://github.com/SanchezRuano22211659/Dominoes)
+4. [Actividad: investigación](https://github.com/SanchezRuano22211659/ProgOO/blob/main/ParadigmaOO/InvestigacionU1.md)
