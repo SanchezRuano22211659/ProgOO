@@ -25,13 +25,13 @@ Se puede definir el encapsulamiento como la limitación y/o organización privad
 > figura 1, representación de un encapsulado
 ```c#
 public Contacto BuscarContactoPor(
-        string nombre,
-        string direccion,
-        int estado,
-        int pais,
-        string email,
-        string empresa,
-        string telefono)
+	string nombre,
+	string direccion,
+	int estado,
+	int pais,
+	string email,
+	string empresa,
+	string telefono)
 {
     // código del método
 } 
@@ -56,3 +56,6 @@ Cuando uno hace referencia a la herencia en la programación, uno tiene que ente
 - Entre las herramientas más populares para la creación de diagramas UML, se encuentra draw.io y Microsoft Visio.
 
 ## 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
+La máquina cuenta con los distintos métodos que hacen llamar dependiendo la cantidad de productos y la suma interna de estos al momento de elegir el precio, ya sea en dólar o en peso mexicano bajo un precio fijo base que esta en MXN, y del cual se extrae al momento de mandar operar la máquina
+
+![image](https://user-images.githubusercontent.com/126355162/225214637-f7861bbf-ef45-479e-a305-0a8b74ea8826.png)
