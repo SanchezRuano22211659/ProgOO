@@ -12,7 +12,7 @@
 
 # Índice
 ---
-1. [Actividad 1: investigación]()
+1. [Actividad 1: investigación](https://github.com/SanchezRuano22211659/ProgOO/blob/main/ParadigmaOO/InvestigacionU1.md)
 2. [Actividad :]()
 3. [Actividad :]()
 4. [Actividad :]()
